@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali Traore! 👋
 
-I am a Master's student in Computer Science at **Sorbonne University & Télécom Paris**, specializing in **Computer Vision, Machine Learning, and Data Engineering**.
+I am a Master's student in Computer Science at **Sorbonne University & Télécom Paris**, specializing in **Computer Vision, Machine Learning, and Data science**.
 
 I love building systems that bridge the gap between theoretical research and production-grade software.
 
