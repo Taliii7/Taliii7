@@ -21,9 +21,9 @@ I love building systems that bridge the gap between theoretical research and pro
 ---
 
 ### 🛠️ Tech Stack
-* **Languages:** Python (Expert), Java, C/C++, SQL.
+* **Languages:** Python, Java, C/C++, SQL.
 * **AI & Data:** PyTorch, Scikit-Learn, Pandas, Hugging Face Transformers.
-* **Tools:** Git, Linux, Docker, LaTeX.
+* **Tools:** Git, Linux, LaTeX.
 
 ---
 [📫 Contact me via Email](mailto:traore.alipro@gmail.com) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/ali-traore-86b913329/)
